@@ -27,11 +27,12 @@ See the [MONOCLE Mini-Secchi disk activity dashboard](https://rsg.pml.ac.uk/dash
 [![frame of MONOCLE dashboard](assets/monocle-dashboard.png)](https://rsg.pml.ac.uk/dashboards/d/P0tWxs97k/monocle-secchi "MONOCLE Dashboard")
 
 Please watch the following video for more information on the MONOCLE website and data access (click image to watch video):  
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/827438261?h=cac9356710&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Monocle data access_updated"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+How to read the measuring tape for the most accurate possible readings (click image to watch video):  
+[![Monocle data access](assets/videoframe_8618.png)](https://player.vimeo.com/video/827438261 "Monocle data access")
 
 ## Measuring Tape How-To
 How to read the measuring tape for the most accurate possible readings (click image to watch video):  
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/908330061?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Measuring Tape How-To"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Measuring Tape How-To](assets/videoframe_44582.png)](https://player.vimeo.com/video/908330061 "Measuring Tape How-To")
 
 ## Weight Attachment How-To
 How to attach extra weight to ensure a vertical downward cast even in stronger currents (click image to watch video):  
