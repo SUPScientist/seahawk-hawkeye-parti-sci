@@ -19,7 +19,7 @@ See below for several instructional resources covering the following topics:
 
 <iframe src="https://player.vimeo.com/video/827438726?h=1ab832388d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Secchi disk how to guide"></iframe>
 
-If you wish to log data and don't have access to the mobile app, please fill out this [Data Log](assets/Mini-Secchi Data Log.pdf "Mini-Secchi Data Log.pdf").
+If you wish to log data and don't have access to the mobile app, please fill out this [Data Log](assets/Mini-Secchi-Data-Log.pdf "Mini-Secchi Data Log.pdf").
 
 ## How to access data on the MONOCLE website
 See the [MONOCLE Mini-Secchi disk activity dashboard](https://rsg.pml.ac.uk/dashboards/d/P0tWxs97k/monocle-secchi) to see all of the data collected in this and interrelated projects!
