@@ -19,8 +19,6 @@ See below for several instructional resources covering the following topics:
 
 [![frame of Secchi Disk How-To Guide video](assets/videoframe_19286.png)](https://player.vimeo.com/video/827438726?h=1ab832388d "Secchi Disk How-To Guide")
 
-<iframe src="&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Secchi disk how to guide"></iframe>
-
 If you wish to log data and don't have access to the mobile app, please fill out this [Data Log](assets/Mini-Secchi-Data-Log.pdf "Mini-Secchi Data Log.pdf").
 
 ## How to access data on the MONOCLE website
@@ -31,6 +29,8 @@ See the [MONOCLE Mini-Secchi disk activity dashboard](https://rsg.pml.ac.uk/dash
 
 Please watch the following video for more information on the MONOCLE website and data access:
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/827438261?h=cac9356710&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Monocle data access_updated"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/827438726?h=1ab832388d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 ## Measuring Tape How-To
 How to read the measuring tape for the most accurate possible readings:
