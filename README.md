@@ -36,8 +36,8 @@ How to read the measuring tape for the most accurate possible readings (click im
 
 ## Weight Attachment How-To
 How to attach extra weight to ensure a vertical downward cast even in stronger currents (click image to watch video):  
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/908332326?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Secchi Weight Attachment"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Secchi Weight Attachment](assets/videoframe_6334.png)](https://player.vimeo.com/video/908332326 "Secchi Weight Attachment")
 
 ## Secchi Disk Maintenance
 How to take care of your Mini-Secchi disk for optimal performance and longevity (click image to watch video):  
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/908332303?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Secchi Disk Maintenance"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Secchi Disk Maintenance](assets/videoframe_5391.png)](https://player.vimeo.com/video/908332303 "Secchi Disk Maintenance")
