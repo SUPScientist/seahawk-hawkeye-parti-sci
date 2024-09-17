@@ -17,29 +17,26 @@ See below for several instructional resources covering the following topics:
 ## How to use the Mini-Secchi Disk
 [Here are written instructions for using the mini-Secchi disk, followed by an instructional video below](assets/Mini-Secchi-How-To-Guide.pdf "Mini-Secchi How-To Guide").
 
+Click image to watch video:  
 [![frame of Secchi Disk How-To Guide video](assets/videoframe_19286.png)](https://player.vimeo.com/video/827438726?h=1ab832388d "Secchi Disk How-To Guide")
 
 If you wish to log data and don't have access to the mobile app, please fill out this [Data Log](assets/Mini-Secchi-Data-Log.pdf "Mini-Secchi Data Log.pdf").
 
 ## How to access data on the MONOCLE website
-See the [MONOCLE Mini-Secchi disk activity dashboard](https://rsg.pml.ac.uk/dashboards/d/P0tWxs97k/monocle-secchi) to see all of the data collected in this and interrelated projects!
-<div class="resp-container">
-    <iframe class="resp-iframe" src="https://rsg.pml.ac.uk/dashboards/d/P0tWxs97k/monocle-secchi"></iframe>
-</div>
+See the [MONOCLE Mini-Secchi disk activity dashboard](https://rsg.pml.ac.uk/dashboards/d/P0tWxs97k/monocle-secchi) to see all of the data collected in this and interrelated projects!  
+[![frame of MONOCLE dashboard](assets/monocle-dashboard.png)](https://rsg.pml.ac.uk/dashboards/d/P0tWxs97k/monocle-secchi "MONOCLE Dashboard")
 
-Please watch the following video for more information on the MONOCLE website and data access:
+Please watch the following video for more information on the MONOCLE website and data access (click image to watch video):  
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/827438261?h=cac9356710&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Monocle data access_updated"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/827438726?h=1ab832388d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-
 ## Measuring Tape How-To
-How to read the measuring tape for the most accurate possible readings:
+How to read the measuring tape for the most accurate possible readings (click image to watch video):  
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/908330061?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Measuring Tape How-To"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Weight Attachment How-To
-How to attach extra weight to ensure a vertical downward cast even in stronger currents
+How to attach extra weight to ensure a vertical downward cast even in stronger currents (click image to watch video):  
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/908332326?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Secchi Weight Attachment"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Secchi Disk Maintenance
-How to take care of your Mini-Secchi disk for optimal performance and longevity
+How to take care of your Mini-Secchi disk for optimal performance and longevity (click image to watch video):  
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/908332303?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Secchi Disk Maintenance"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
