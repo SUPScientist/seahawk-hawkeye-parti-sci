@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/858469161.svg)](https://doi.org/10.5281/zenodo.13991921)
+
 # SeaHawk-HawkEye Participatory Science
 ![HawkEye satellite image of eastern North Carolina](assets/ChesapeakeBay-December28th-2022.png "HawkEye NC Coast")
 
